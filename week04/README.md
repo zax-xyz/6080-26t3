@@ -69,4 +69,8 @@ node server.js
 
 This runs the backend on port 3000, and should be accessible at `http://localhost:3000`. If there's a port conflict then you'll need to manually change the port in `backend/server.js`
 
-You can view the interactive "Swagger" (the library used to generate this) docs in your browser at `http://localhost:3000/docs`
+#### Interactive Docs
+
+You can view the interactive "Swagger" (the library used to generate this) docs in your browser at `http://localhost:3000/docs`. This will tell you what routes the backend has and what they do, and will be very similar to what you'll see for the assignment 3 and 4 backends.
+
+You can test these routes directly in the Swagger UI to play around with them and see what they do. ("Try it out" button on the right in each route section). It also tells you the description of the route, any URL parameters it takes (we didn't look at URL parameters today), a schema for the request body if it accepts one (a JSON object that we send in the request), and the schema for the response.
