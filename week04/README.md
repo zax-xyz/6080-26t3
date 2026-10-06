@@ -6,7 +6,7 @@
 
 **My email**: mica.vo1 \[at] unsw \[dot] edu \[dot] au (also on the course website)
 
-This tut will be focused on DOM manipulation in JavaScript, and using the Fetch API
+This tut will be focused on DOM manipulation in JavaScript, and using the Fetch API. It's a lot to cover in one hour sorry, we need to combine topics in the tuts because of the new course structure with half of the classes being replaced with quizzes.
 
 ## Prerequisites
 
