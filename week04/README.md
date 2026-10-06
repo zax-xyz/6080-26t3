@@ -8,6 +8,12 @@
 
 This tut will be focused on DOM manipulation in JavaScript, and using the Fetch API. It's a lot to cover in one hour sorry, we need to combine topics in the tuts because of the new course structure with half of the classes being replaced with quizzes.
 
+## Admin
+
+Well done on finishing assignment 1! Marks for it should be released some time next week. I'd recommend taking a crack at assignment 2 now even though it's not assessed - it'll provide you with good practice with JavaScript, which will be essential for the upcoming quiz
+
+Model answers have also been provided for quiz 0, so you can take a look at those to get an idea for how you should be answering the questions
+
 ## Prerequisites
 
 ### Content
