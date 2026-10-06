@@ -16,7 +16,7 @@ const createMessage = (author, colour, message) => {
   const messageContent = document.createElement("p");
   messageContent.append(message);
 
-  messageElem.appendChild(colourElem);
+  messageElem.appendChild(avatarElem);
   messageElem.appendChild(messageContents);
   messageContents.appendChild(authorElem);
   messageContents.appendChild(messageContent);
@@ -28,6 +28,10 @@ const renderMessages = () => {
   fetch("http://localhost:3000/messages")
     .then(resp => resp.json())
     .then(messages => {
+      while (messageList.firstChild) {
+        messageList.removeChild(messageList.firstChild);
+      }
+
       for (const { username, colour, message } of messages) {
         createMessage(username, colour, message);
       }
@@ -53,8 +57,9 @@ const sendMessage = message => {
   });
 };
 
-const form = document.getElementById("input-form");
-form.addEventListener("submit", e => {
+const inputForm = document.getElementById("input-form");
+const inputElement = document.getElementById("message-input");
+inputForm.addEventListener("submit", e => {
   e.preventDefault();
 
   const message = inputElement.value;
