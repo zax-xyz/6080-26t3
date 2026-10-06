@@ -39,3 +39,34 @@ fetch("https://URL")
   .then(resp => console.log(resp.text))
   .catch(err => console.error(err));
 ```
+
+## Exercise
+
+We'll be building (built lol, this part was written after the tut) a simple messaging app using a provided backend.
+
+Some starter code is provided in [starter](starter) with the HTML and CSS already written, our job is to write the JavaScript code to fetch and render the messages from the backend, and to send messages to the backend to be stored.
+
+The backend, while it has types specified for the structure of a message, actually accepts any object to be inserted into the database, and will return them as-is, so you can use whatever structure you want.
+
+An example solution is provided in [solution](solution).
+
+### Running Backend
+
+For this exercise, we need to run the backend locally. To do so, you'll first need [NodeJS](https://nodejs.org) installed on your system (and optionally [pnpm](https://pnpm.io/) which is what I used to make the backend), and a terminal.
+
+To set up the backend, run the following commands in the terminal (you only need to do this once)
+
+```sh
+cd backend # if not already inside the backend directory
+pnpm i # or `npm i` if you don't have pnpm
+```
+
+Now to run the backend, use this command:
+
+```sh
+node server.js
+```
+
+This runs the backend on port 3000, and should be accessible at `http://localhost:3000`. If there's a port conflict then you'll need to manually change the port in `backend/server.js`
+
+You can view the interactive "Swagger" (the library used to generate this) docs in your browser at `http://localhost:3000/docs`
