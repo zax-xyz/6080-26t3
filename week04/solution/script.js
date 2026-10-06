@@ -16,7 +16,7 @@ const createMessage = (author, colour, message) => {
   const messageContent = document.createElement("p");
   messageContent.append(message);
 
-  messageElem.appendChild(avatarElem);
+  messageElem.appendChild(colourElem);
   messageElem.appendChild(messageContents);
   messageContents.appendChild(authorElem);
   messageContents.appendChild(messageContent);
