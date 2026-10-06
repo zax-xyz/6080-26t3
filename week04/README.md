@@ -44,6 +44,8 @@ fetch("https://URL")
 
 We'll be building (built lol, this part was written after the tut) a simple messaging app using a provided backend.
 
+<img width="1763" height="1716" alt="messaging app screenshot" src="https://github.com/user-attachments/assets/b8f40827-093d-482d-bc11-28e5fc3b2d7e" />
+
 Some starter code is provided in [starter](starter) with the HTML and CSS already written, our job is to write the JavaScript code to fetch and render the messages from the backend, and to send messages to the backend to be stored.
 
 The backend, while it has types specified for the structure of a message, actually accepts any object to be inserted into the database, and will return them as-is, so you can use whatever structure you want.
