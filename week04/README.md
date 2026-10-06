@@ -54,6 +54,8 @@ We'll be building (built lol, this part was written after the tut) a simple mess
 
 Some starter code is provided in [starter](starter) with the HTML and CSS already written, our job is to write the JavaScript code to fetch and render the messages from the backend, and to send messages to the backend to be stored.
 
+The [demo](demo) folder contains the code we wrote during the class (sending messages doesn't work lol we didnt' have time to debug that but you can look at the solution)
+
 The backend, while it has types specified for the structure of a message, actually accepts any object to be inserted into the database, and will return them as-is, so you can use whatever structure you want.
 
 An example solution is provided in [solution](solution).
