@@ -2,7 +2,7 @@
 
 ## Info
 
-**Link to this repo**: https://go.zax.sh/6080-26t3
+**Link to this repo**: [go.zax.sh/6080-26t3](https://go.zax.sh/6080-26t3)
 
 **My email**: mica.vo1 \[at] unsw \[dot] edu \[dot] au (also on the [course website](https://cgi.cse.unsw.edu.au/~cs6080/26T3/staff))
 
