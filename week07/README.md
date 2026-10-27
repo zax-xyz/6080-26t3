@@ -6,15 +6,8 @@
 
 **My email**: mica.vo1 \[at] unsw \[dot] edu \[dot] au (also on the [course website](https://cgi.cse.unsw.edu.au/~cs6080/26T3/staff))
 
-This week is dedicated to **Quiz 2**!
-
-## Admin
-
-**Quiz 1 marks released**! You should all hopefully be well aware of this already, but you can view your quiz 1 marks and breakdown on [Nous](https://cgi.cse.unsw.edu.au/~cs6080/nous). Note that this **quiz was scaled** to get the average marks up to where we expect it. If you have a concern, you can raise a dispute there and the tutor who marked you will look at it.
-
-Reminder again to try assignment 3 if you haven't already - quiz 2 was designed so that someone who did all the exercises and assignment 3 should be able to do it.
-
-I'd also recommend starting assignment 4 soon in preparation for quiz 3 and the remaining tutorials.
+> [!IMPORTANT]
+> This week is dedicated to **Quiz 2**! This was announced on Sunday, sorry about the late notice, see below
 
 ## Quiz 2
 
@@ -39,3 +32,11 @@ Hopefully everyone saw the email from Hayden on Sunday, sorry about the late not
 > Email me any time 🙂
 >
 > Hayden
+
+## Other Admin
+
+**Quiz 1 marks released**! You should all hopefully be well aware of this already, but you can view your quiz 1 marks and breakdown on [Nous](https://cgi.cse.unsw.edu.au/~cs6080/nous). Note that this **quiz was scaled** to get the average marks up to where we expect it. If you have a concern, you can raise a dispute there and the tutor who marked you will look at it.
+
+Reminder again to try assignment 3 if you haven't already - quiz 2 was designed so that someone who did all the exercises and assignment 3 should be able to do it.
+
+I'd also recommend starting assignment 4 soon in preparation for quiz 3 and the remaining tutorials.
