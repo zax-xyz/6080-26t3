@@ -12,4 +12,4 @@ Celebratory quiz session yay! As always, it'll be on [Nous](https://cgi.cse.unsw
 
 ## myExperience
 
-Please do your myExperience 🥺 it's really helpful for us, and especially with all the changes this term, your feedback will be really valuable
+Please do your [myExperience](https://myexperience.unsw.edu.au/) 🥺 it's really helpful for us, and especially with all the changes this term, your feedback will be really valuable
